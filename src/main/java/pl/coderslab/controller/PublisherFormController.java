@@ -14,7 +14,7 @@ import javax.validation.Valid;
 
 @Controller
 @RequestMapping("/publisherForm")
-public class PublisherFormController {
+public class gitPublisherFormController {
 
 
     private final PublisherDao publisherDao;
